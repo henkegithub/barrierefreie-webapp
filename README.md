@@ -7,4 +7,4 @@ Verwende relative Einheiten (wie rem, em, vmin), um die Schriftgröße und Layou
 
 ## vercel deployment link
 
-https://vercel.com/henkegithubs-projects/barrierefreie-webapp/5G4uAB6jvjcZP3SvxKahB3zFWSwL
+https://barrierefreie-webapp.vercel.app/
