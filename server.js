@@ -4,7 +4,7 @@ const app = express();
 
 app.use(express.static(path.join(__dirname, 'client/build')));
 
-app.get('*', (req, res) => {
+app.get('*', (req, res) => {  // 'req' wird hier deklariert, aber nicht verwendet
   res.sendFile(path.join(__dirname, 'client/build', 'index.html'));
 });
 
